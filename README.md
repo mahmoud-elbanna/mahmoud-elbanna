@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mahmoud-elbanna
+- 👋 Hi, I’m 𝑴𝑨𝑯𝑴𝑶𝑼𝑫 𝑬𝑳𝑩𝑨𝑵𝑵𝑨
 - 👀 I’m interested in learning software and projects . 
 - 🌱 I’m currently learning software engineering at ALX.
 - 💞️ I’m looking to collaborate on projects . 
