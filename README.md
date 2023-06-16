@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20ABDE-LKADER;I%20Love%20To%20Code;Always%20I%20Learn%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=FFF400FF&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20Mahmoud-Elbanna;I%20Love%20To%20Code;Always%20I%20Learn%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=FFF400FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
