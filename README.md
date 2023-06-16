@@ -36,7 +36,7 @@
       <a href="https://github.com/search?q=user%mahmoud-elbanna+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
-  <h3 align="center">💻 Software and Tools</h3>
+  <h3 align="center">S O F T W A R E 💻 T O O L S</h3>
 
   <p align="center">
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
