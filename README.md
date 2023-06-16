@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <h3 align="center">👨‍💻 S O F T W A R E </h3>
+  <h3 align="center">S O F T W A R E 💻 E N G I N E E R </h3>
 
   <p align="center">
       <a href="https://github.com/search?q=user%3AABDE-LKADER+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
